@@ -14,3 +14,5 @@ En Hyperblog:
 :tw-1f49a: :tw-1f49a: :tw-1f49a:
 
 Y como recordatorio, esto sólo es para divertirme un rato en **Git y GitHub.** La vida no es para tomarsela tan en serio.
+
+Esto fue realizado por Jaime Andrés
