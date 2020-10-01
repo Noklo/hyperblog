@@ -6,7 +6,13 @@ En camara aparece aalto pero no es tan alto.
 
 Hoy trabaja en MinTIC.
 
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 1.
+
+Master 1.
+>>>>>>> 9521ead... Experimento 1
 
 Hablaremos de su vida.
 
